@@ -1,6 +1,6 @@
 my_app.py
 
-from PyQt5.QtCore import QtCore
+from PyQt5.QtCore import Qt
 from PyQt5.QtWidgets import (QApplication, QWidget, QHBoxLayout, QVBoxLayout, QGroupBox, QRadioButton, QPushButton, QLabel, QListWidget, QLineEdit)
 
 from instr import *
